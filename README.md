@@ -1,1 +1,1 @@
-# AcmeCorpAPI
+# AcmeCorpAPI To develop a .NET Core REST API to manage customer, contact info, and orders for Acme Corp, including authentication/authorization using API key, Entity Framework Core migration script, design pattern (repository pattern), unit testing, and integration testing, follow the steps below:
